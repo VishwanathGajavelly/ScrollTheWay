@@ -1,6 +1,112 @@
-.navbar-default{
-background: #fff;
-font-family: Cuprum;
-font-size: 50;
+body {
 
+  margin-top: 60px;
+  font-size:20px;
+  background-color: #f9f9f9;
+  color: #222222;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Cuprum;
+  font-size: 40px;
+}
+
+p{
+  font-family:slabo;
+}
+
+#showcase {
+padding: 10px;
+}
+
+#showcase img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+
+#info1 {
+  padding: 10px;
+}
+
+#info1 img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+#info2 {
+  padding: 10px;
+}
+
+#info2 img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+#info3 {
+  padding: 10px;
+}
+
+#info3 img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+#info4 {
+  padding: 10px;
+}
+
+#info4 img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+#info5 {
+  padding: 10px;
+}
+
+#info5 img {
+  width:95%;
+  max-height: 350px;
+  /*margin-left: 60px;*/
+  border-radius: 10px;
+}
+
+#contact{
+
+  background-attachment: fixed;
+  background-image: url(../img/footer.jpg);
+  font-family: Cuprum;
+  background-repeat: no-repeat;
+  padding:40px;
+  color:#000;
+  border-top:#333 4px solid;
+  border-bottom:#333 7px solid;
+}
+
+#footer1 p {
+  font-family: Cuprum;
+  font-size: 20px;
+  padding:30px;
+}
+
+.navbar-default{
+  font-family: Cuprum;
+  font-size: 20px;
+  background-color: #222222;
+
+}
+.navbar-brand {
+  font-size: 30px;
+  color: white !important;
 }
